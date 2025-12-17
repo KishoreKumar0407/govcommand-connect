@@ -1,0 +1,5 @@
+{
+  "name": "GovCommand Connect",
+  "description": "A secure government prototype for centralized administration and targeted constituency communication with location tracking.",
+  "requestFramePermissions": []
+}
